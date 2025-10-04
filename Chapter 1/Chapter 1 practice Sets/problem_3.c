@@ -24,18 +24,18 @@
 
 // fahrenheit into celsius
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main(){
-    float fahrenheit, celsius;
+// int main(){
+//     float fahrenheit, celsius;
 
-    printf("Enter the value in Fahrenheit:");
-    scanf("%f",&fahrenheit);
+//     printf("Enter the value in Fahrenheit:");
+//     scanf("%f",&fahrenheit);
 
-    celsius= (fahrenheit-32)*5/9;
+//     celsius= (fahrenheit-32)*5/9;
 
-    // result print
-    printf("Temperature in Celsius= %.2f\n",celsius);
+//     // result print
+//     printf("Temperature in Celsius= %.2f\n",celsius);
 
-    return 0;
-}
+//     return 0;
+// }
